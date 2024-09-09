@@ -6,11 +6,11 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Darcula-even-darker</name>
+    <name>Darcula-Even-Darker</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="" url="">Syed</vendor>
+    <vendor email="sample@some.com" url="https://acqcc.blog">Syed</vendor>
 
     <idea-version since-build="232" until-build="242.*"/>
 
