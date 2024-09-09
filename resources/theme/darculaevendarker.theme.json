@@ -11,7 +11,7 @@
       "selectionBackground": "#1f1f1f",
       "selectionInactiveBackground": "#1f1f1f",
       "lightSelectionBackground": "#1f1f1f",
-      "lightSelectionInactiveBackground": "#1f1f1f",
+      "lightSelectgionInactiveBackground": "#1f1f1f",
       "borderColor": "#1f1f1f",
       "disabledBorderColor": "#1f1f1f",
       "separatorForeground": "#1f1f1f",
@@ -46,8 +46,8 @@
     },
 
     "ActionButton": {
-      "hoverBackground": "#3d3e40",
-      "hoverBorderColor": "#3d3e40",
+      "hoverBackground": "#1f1f1f",
+      "hoverBorderColor": "#1f1f1f",
       "pressedBackground": "#3d3e40",
       "pressedBorderColor": "#3d3e40"
     },
@@ -82,47 +82,47 @@
       },
 
       "HeaderTab": {
-        "underlinedTabBackground": "#313234"
+        "underlinedTabBackground": "#1f1f1f"
       },
 
       "Button": {
-        "hoverBackground": "#313234",
-        "selectedBackground": "#313234"
+        "hoverBackground": "#1f1f1f",
+        "selectedBackground": "#1f1f1f"
       }
     },
 
     "Popup": {
       "Header": {
-        "activeBackground": "#313234",
-        "inactiveBackground": "#313234"
+        "activeBackground": "#1f1f1f",
+        "inactiveBackground": "#1f1f1f"
       }
     },
 
     "DefaultTabs": {
       "hoverBackground": "#00000000",
       "underlineColor": "#2f65ca",
-      "underlinedTabBackground": "#313234",
+      "underlinedTabBackground": "#1f1f1f",
       "underlineHeight": 2
     },
 
     "SearchEverywhere": {
       "Tab": {
         "selectedForeground": "#CFD2D5",
-        "selectedBackground": "#313234"
+        "selectedBackground": "#1f1f1f"
       }
     },
 
     "Plugins": {
       "Tab": {
-        "selectedBackground": "#313234",
-        "hoverBackground": "#313234"
+        "selectedBackground": "#1f1f1f",
+        "hoverBackground": "#1f1f1f"
       },
-      "lightSelectionBackground": "#313234"
+      "lightSelectionBackground": "#1f1f1f"
     },
 
     "EditorTabs": {
-      "selectedBackground": "#313234",
-      "underlinedTabBackground": "#313234",
+      "selectedBackground": "#1f1f1f",
+      "underlinedTabBackground": "#1f1f1f",
       "underlinedTabForeground": "#CFD2D5",
       "underlineColor": "#2f65ca",
       "inactiveUnderlineColor": "#2f65ca",
@@ -130,7 +130,7 @@
     },
 
     "StatusBar": {
-      "hoverBackground": "#313234"
+      "hoverBackground": "#1f1f1f"
     },
 
     "VersionControl": {
